@@ -1,4 +1,4 @@
-# Zephyr Applications
+# Zephyr RTOS Applications Collection 🧪
 
 This directory contains out-of-tree Zephyr applications that are part of a Zephyr workspace following the **T1 (Forest) topology**.
 
@@ -243,3 +243,7 @@ west update
 - [Application Development](https://docs.zephyrproject.org/latest/develop/application/index.html)
 - [West Tool](https://docs.zephyrproject.org/latest/develop/west/index.html)
 - [Board Support](https://docs.zephyrproject.org/latest/boards/index.html)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](./LICENCE) file for details.
