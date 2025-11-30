@@ -142,6 +142,8 @@ int main(void)
 
 ### 3. Build the application
 
+After activating the virtual environment created during workspace setup, go to the application directory and build:
+
 ```sh
 # From within your application directory
 west build -b <board_name>
