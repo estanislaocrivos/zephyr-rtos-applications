@@ -148,7 +148,7 @@ After activating the virtual environment created during workspace setup, go to t
 # From within your application directory
 west build -b <board_name>
 
-# Example for native simulation
+# Example for native simulation (only available on Linux hosts)
 west build -b native_sim
 
 # Example for STM32 Nucleo F401RE
